@@ -1,0 +1,16 @@
+.basic-grid {
+  display: grid;
+  gap: 0.5rem;
+  place-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+.text-center {
+  text-align: center;
+}
+.opacity-true {
+  color: white;
+  opacity: 0.8;
+}
+body {
+  margin: 0;
+}
