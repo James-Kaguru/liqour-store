@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/liqour-store/static/css/main.b9e49ba8.chunk.css",
+    "main.js": "/liqour-store/static/js/main.ebd1986c.chunk.js",
+    "main.js.map": "/liqour-store/static/js/main.ebd1986c.chunk.js.map",
+    "runtime-main.js": "/liqour-store/static/js/runtime-main.deb3ed49.js",
+    "runtime-main.js.map": "/liqour-store/static/js/runtime-main.deb3ed49.js.map",
+    "static/js/2.bb0b28d7.chunk.js": "/liqour-store/static/js/2.bb0b28d7.chunk.js",
+    "static/js/2.bb0b28d7.chunk.js.map": "/liqour-store/static/js/2.bb0b28d7.chunk.js.map",
+    "index.html": "/liqour-store/index.html",
+    "static/css/main.b9e49ba8.chunk.css.map": "/liqour-store/static/css/main.b9e49ba8.chunk.css.map",
+    "static/js/2.bb0b28d7.chunk.js.LICENSE.txt": "/liqour-store/static/js/2.bb0b28d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deb3ed49.js",
+    "static/js/2.bb0b28d7.chunk.js",
+    "static/css/main.b9e49ba8.chunk.css",
+    "static/js/main.ebd1986c.chunk.js"
+  ]
+}
